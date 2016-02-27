@@ -1,0 +1,15 @@
+[alias]
+    co = checkout
+    ci = commit
+    st = status
+    pl = pull
+    ps = push
+    dt = difftool
+    l = log --stat
+    cp = cherry-pick
+    ca = commit -a
+    b = branch
+
+[user]
+    name = Your Name
+    email = your@email.com
