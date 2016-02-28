@@ -8,7 +8,7 @@
     l = log --stat
     cp = cherry-pick
     ca = commit -a
-    b = branch
+    br = branch
 
 [user]
     name = Your Name
